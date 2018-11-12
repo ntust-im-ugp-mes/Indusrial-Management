@@ -20,7 +20,7 @@
       "f1": {
         "Name": "f1",
         "Text": "Initial State",
-        "Origin": "",
+        "Origin": "START",
         "Destination":  "s1"
       },
       "f2": {
@@ -39,7 +39,7 @@
         "Name": "f4",
         "Text": "Put Object from Station2 to exterior parts ",
         "Origin": "s2",
-        "Destination":  ""
+        "Destination":  "END"
       }
     }
   }
